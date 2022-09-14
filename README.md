@@ -1,3 +1,3 @@
 #Website
 
-This is the website repository for my GitHub page.
+This is my GitHub page.
